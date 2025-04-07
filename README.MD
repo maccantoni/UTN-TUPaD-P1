@@ -3,7 +3,7 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Cantoni, María MAcarena   
+- **Nombre:** Cantoni, María Macarena   
 - **Comisión:** M2025-11. 
 
 ## 📂 Descripción del Repositorio  
